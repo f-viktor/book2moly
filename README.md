@@ -1,2 +1,2 @@
 # book2moly
-Post books to moly from other sites
+Post books to moly.hu from other sites
